@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RotateView</string>
+    <string name="rotate_wheel">Rotate Wheel</string>
+</resources>
